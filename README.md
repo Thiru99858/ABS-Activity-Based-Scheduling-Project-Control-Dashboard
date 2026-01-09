@@ -158,6 +158,13 @@ Baseline productivity = 1.0
 
 ---
 
+## 📁 Power BI File
+The complete Power BI dashboard file used for this project is available in the **Dashboard** folder:
+
+Dashboard/ABS_Project_Control_Dashboard.pbix
+
+---
+
 ## 🚀 Key Outcomes
 - Clear visibility into project performance
 - Early detection of schedule and cost risks
