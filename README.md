@@ -154,7 +154,7 @@ Baseline productivity = 1.0
 ---
 
 ## 📷 Dashboard Preview
-Dashboard screenshot available in the Screenshots folder.
+![Dashboard Preview](Screenshots/dashboard_overview.png)
 
 ---
 
